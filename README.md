@@ -94,4 +94,4 @@ The template includes dark mode support through Tailwind's `dark:` classes and C
 - [Radix UI](https://www.radix-ui.com/)
 
 
-Built with ❤️ by the Dala team to help developers build faster and smarter.
+Built with ❤️ by the Veloce Tech Company to help developers build faster and smarter.
